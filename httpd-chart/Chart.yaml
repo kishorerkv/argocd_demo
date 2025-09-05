@@ -1,0 +1,6 @@
+apiVersion: v2
+name: httpd-chart
+description: A Helm chart for deploying Apache HTTPD
+type: application
+version: 0.1.0
+appVersion: "2.4"
